@@ -1,0 +1,9 @@
+.dbeaver/.credentials-config.json.bak
+.dbeaver/.data-sources.json.bak
+.dbeaver/.project-metadata.json.bak
+.dbeaver/credentials-config.json
+.dbeaver/data-sources.json
+.dbeaver/project-metadata.json
+.dbeaver/project-settings.json
+.settings/org.eclipse.core.resources.prefs
+.vscode/settings.json
