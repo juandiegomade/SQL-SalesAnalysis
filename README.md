@@ -1,7 +1,7 @@
 # Sales Analysis
 
 ## Overview
-Analysis of customer behavior, retention, ando lifetime value for an e-commerce company to improve customer retention and maximize revenue.
+Analysis of customer behavior, retention, and lifetime value for an e-commerce company to improve customer retention and maximize revenue.
 
 ## Business Questions
 1. **Customer Segmentation:** Who are our most valuable customers?
